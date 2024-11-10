@@ -15,7 +15,7 @@ public class MethodOverloading {
 
     }
 
-    // Method Overloading happens when two or more methods with same name exists if the parameters are different (Cannot be of same data type)
+    // Method Overloading happens when two or more methods with same name exists if the parameters are different
     static void fun(int a){
         System.out.println("The number is = " + a);
     }
