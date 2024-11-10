@@ -36,6 +36,8 @@ public class PassingValues {
 //        int temp = a; // cannot access temp out this swap method - This is called scoping
 //        a = b;
 //        b = temp;
+
+            // this change will only be valid in this function scope only
 //    }
 //
 //    static void changeName(String naam) {
