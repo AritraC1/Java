@@ -13,6 +13,9 @@ public class Factorials {
     }
 
     private static long factorial(int num) {
+
+        if (num == 1 || num == 0) return 1;
+
         long ans = 1;
 
         for (int i = 1; i<=num; i++) {
