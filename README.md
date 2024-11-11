@@ -3,6 +3,11 @@
 ### About
 All the Basics concepts of Java, OOPs, DSA in Java and some Projects along with notes, practice problems, and other resources.
 
+### Concept based Projects:-
+1. Library Management System using CRUD (Create, Read, Update, Delete) operations with OOPs and Exception Handling
+2. Bank Account Management System using CRUD, OOP, Exception Handling, Java I/O, File Handling, Multi-Threading, and Basic DSA (Arrays, ArrayLists, HashMaps, searching, validating, and sorting)
+3. Multi-threaded File Downloader using Multithreading, Thread Synchronization, Thread Pooling (ExecutorService), URL Handling, HTTP Protocol, File I/O, Random Access File, Chunked File Download, Error Handling & Exceptions, Concurrency.
+
 ### References:-
 
 #### Playlist to learn Java and DSA (*Best*):
