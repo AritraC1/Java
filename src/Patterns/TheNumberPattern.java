@@ -35,6 +35,6 @@ public class TheNumberPattern {
             // next row and give a line break otherwise all numbers
             // would get printed in 1 line.
             System.out.println();
-            }
+        }
     }
 }
