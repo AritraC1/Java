@@ -7,5 +7,8 @@ public class Strings {
 
         name = "Stark";
         System.out.println(name);
+
+        // Accessing values
+        System.out.println(name.charAt(0)); // prints S
     }
 }
