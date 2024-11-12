@@ -15,7 +15,7 @@ All the Basic concepts of Java, OOPs, DSA in Java and some Projects along with n
 2. [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 #### Detailed Notes and Assignments 
-[Kunal Kushwaha](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+[Kunal Kushwaha Github Repo: DSA Bootcamp Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
 #### CheatSheet
 1. [Java CheatSheet1](https://github.com/yungnickyoung/Java-Cheatsheet)
