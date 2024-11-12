@@ -10,5 +10,14 @@ public class Strings {
 
         // Accessing values
         System.out.println(name.charAt(0)); // prints S
+
+        // performance
+        String series = "";
+
+        for (int i = 0; i<26; i++) {
+            char ch = (char)('a' + i);
+            series = series + ch; // series += ch;
+        }
+        System.out.println(series);
     }
 }
