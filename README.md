@@ -1,7 +1,7 @@
 # JAVA
 
 ### About
-All the Basic concepts of Java, OOPs, DSA in Java and some Projects along with notes, practice problems, and other resources.
+All the Basic concepts of Java, OOPs, DSA in Java and some Projects along with practice problems and other resources.
 
 ### Concept-based Projects:-
 1. Library Management System using CRUD (Create, Read, Update, Delete) operations with OOPs and Exception Handling
