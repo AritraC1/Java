@@ -64,6 +64,8 @@ class A{
         this.name = name;
     }
 
+
+    // Finalization
     // Deprecated version
     @Override
     protected void finalize() throws Throwable {
