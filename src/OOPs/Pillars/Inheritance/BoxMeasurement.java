@@ -12,4 +12,9 @@ public class BoxMeasurement extends Box{
         super(l,w,h); //  call the parent class constructor
         this.weight = weight;
     }
+
+    public BoxMeasurement(BoxMeasurement other) {
+        super(other);
+        weight = other.weight;
+    }
 }

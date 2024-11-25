@@ -1,7 +1,10 @@
 package OOPs.Pillars;
 
-import OOPs.Pillars.Inheritance.Box;
-import OOPs.Pillars.Inheritance.BoxMeasurement;
+// import OOPs.Pillars.Inheritance.Box;
+// import OOPs.Pillars.Inheritance.BoxMeasurement;
+// import OOPs.Pillars.Polymorphism.Circle;
+// import OOPs.Pillars.Polymorphism.Shapes;
+// import OOPs.Pillars.Polymorphism.Square;
 
 public class Pillars {
     public static void main(String[] args) {
@@ -17,7 +20,20 @@ public class Pillars {
 //        Box box3 = new Box(box1);
 //        System.out.println(box3.l + ", " + box3.w + ", " + box3.h);
 
-        BoxMeasurement box4 = new BoxMeasurement();
-        System.out.println(box4.h + ", " +  box4.weight);
+//        BoxMeasurement box4 = new BoxMeasurement();
+//        System.out.println(box4.h + ", " +  box4.weight);
+
+//        Shapes shapes = new Shapes();
+//        Circle circle = new Circle();
+//        Square square = new Square();
+
+//        Shapes square = new Square();
+
+//        shapes.area();
+//        circle.area();
+//        square.area();
+
+//        square.area();
+
     }
 }
