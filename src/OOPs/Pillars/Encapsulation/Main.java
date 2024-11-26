@@ -1,6 +1,6 @@
 package OOPs.Pillars.Encapsulation;
 
-public class Encap {
+public class Main {
     public static void main(String[] args) {
         // Creating a Car object
         Car myCar = new Car("Toyota Corolla", 0);
