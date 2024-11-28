@@ -1,4 +1,4 @@
-package FileExceptionHandling;
+package FileHandling;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
