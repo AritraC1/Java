@@ -17,14 +17,6 @@ public class Book {
         return bookID;
     }
 
-    public String getTitle() {
-        return title;
-    }
-
-    public String getAuthor() {
-        return author;
-    }
-
     // Setter
     public void setTitle(String title) {
         this.title = title;
