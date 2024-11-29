@@ -5,33 +5,11 @@ All the Basic concepts of Java, OOPs, DSA in Java and some Practice-Projects alo
 
 ## Concept-based Projects
 
-### Library Management System
-
-A simple Library Management System implemented in Java, designed to manage books efficiently using CRUD operations, Object-Oriented Programming (OOP) principles, and exception handling. The system allows users to add, view, update, and delete books in a library through a user-friendly console interface.
-
-#### Key Features -
-- Add a book (Create).
-- View all books (Read).
-- Update book details (Update).
-- Delete a book (Delete).
-- Exception handling for invalid inputs and operations.
-
-#### Technology Used - Core Java
-#### Concepts Covered - Object-Oriented Programming (OOP), Exception handling
-
-### Bank Account Management System
-
-#### Key Features -
-
-#### Technology Used - Core Java
-#### Concepts Covered - Object-Oriented Programming (OOP), Exception handling, Java I/O, File Handling, Multi-Threading, and Basic DSA (Arrays, ArrayLists, HashMaps, searching, validating, and sorting)
-
-### Multithreaded File Downloader
-
-#### Key Features -
-
-#### Technology Used - Core Java
-#### Concepts Covered - Multithreading, Thread Synchronization, Thread Pooling (ExecutorService), URL Handling, HTTP Protocol, File I/O, Random Access File, Chunked File Download, Error Handling & Exceptions, Concurrency.
+| Project Name | Description | Key Features | Technology Used | Concepts Covered |
+| ------------ | ----------- | ------------ |-----------|----------------- |
+| Library Management System |  A Java-based Library Management System using CRUD operations, OOP principles, and exception handling to efficiently manage books via a console interface. Users can add, view, update, and delete books. | Add a book (Create), View all books (Read), Update book details (Update), Delete a book (Delete), Exception handling for invalid inputs and operations | Core Java | Object-Oriented Programming (OOP), Exception handling |
+| Bank Account Management System |                                                                                                                                                                                                           |                                                                                                                                                        | Core Java | Object-Oriented Programming (OOP), Exception handling, Java I/O, File Handling, Multi-Threading, and Basic DSA (Arrays, ArrayLists, HashMaps, searching, validating, and sorting) |
+| Multithreaded File Downloader |                                                                                                                                                                                                           |                                                                                                                                                        | Core Java | Multithreading, Thread Synchronization, Thread Pooling (ExecutorService), URL Handling, HTTP Protocol, File I/O, Random Access File, Chunked File Download, Error Handling & Exceptions, Concurrency |
 
 ## References
 
