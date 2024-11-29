@@ -11,7 +11,7 @@ All the Basic concepts of Java, OOPs, DSA in Java and some Practice-Projects alo
 | Bank Account Management System |                                                                                                                                                                                                           |                                                                                                                                                        | Core Java | Object-Oriented Programming (OOP), Exception handling, Java I/O, File Handling, Multi-Threading, and Basic DSA (Arrays, ArrayLists, HashMaps, searching, validating, and sorting) |
 | Multithreaded File Downloader |                                                                                                                                                                                                           |                                                                                                                                                        | Core Java | Multithreading, Thread Synchronization, Thread Pooling (ExecutorService), URL Handling, HTTP Protocol, File I/O, Random Access File, Chunked File Download, Error Handling & Exceptions, Concurrency |
 
-## References
+## Resources
 
 ### Playlist to learn Java and DSA (*Best*):
 1. [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
