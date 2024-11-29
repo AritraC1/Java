@@ -14,8 +14,8 @@ All the Basic concepts of Java, OOPs, DSA in Java and some practice projects and
 ## Resources
 
 ### Playlist to learn Java and DSA (*Best*):
-1. [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
-2. [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+1. [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+2. [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
 
 ### Detailed Notes and Assignments 
 [Kunal Kushwaha Github Repo: DSA Bootcamp Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
