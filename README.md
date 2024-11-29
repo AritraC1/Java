@@ -1,7 +1,7 @@
 # JAVA
 
 ## About
-All the Basic concepts of Java, OOPs, DSA in Java and some Practice-Projects along with practice problems and other resources.
+All the Basic concepts of Java, OOPs, DSA in Java and some practice projects and problems and other resources.
 
 ## Concept-based Projects
 
