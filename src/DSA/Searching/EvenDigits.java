@@ -47,4 +47,13 @@ public class EvenDigits {
 
         return count;
     }
+
+    // Shortcut to find Number of Digits
+    static int countDigits2(int num){
+        if(num < 0) {
+            num = num * -1;
+        }
+
+        return (int)(Math.log10(num)) + 1;
+    }
 }
