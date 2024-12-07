@@ -27,7 +27,7 @@ Output:
 
 
 
-package DSA.Practice.CSES;
+package Practice.CSES;
 
 import java.util.Scanner;
 
