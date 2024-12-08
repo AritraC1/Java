@@ -15,9 +15,11 @@ public class GreatestCandies {
     }
 
     static List<Boolean> maxCandies(int[] candies, int extraCandies) {
+        // List Declaration
         List<Boolean> ans = new ArrayList<>();
         int maxCandy = maximum(candies);
 
+        // comparing to the maximum
         for (int candy : candies) {
             if (extraCandies + candy >= maxCandy) {
                 ans.add(true);
@@ -29,6 +31,7 @@ public class GreatestCandies {
         return ans;
     }
 
+    // Finding the maximum in the array
     static int maximum(int[] candies){
         int max = candies[0];
 
