@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package DSA.Strings;
 
 // LC Question: https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
 
