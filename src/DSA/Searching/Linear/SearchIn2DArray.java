@@ -1,6 +1,4 @@
-package DSA.Searching;
-
-import java.util.Arrays;
+package DSA.Searching.Linear;
 
 public class SearchIn2DArray {
     public static void main(String[] args) {

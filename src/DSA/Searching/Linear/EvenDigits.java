@@ -1,4 +1,4 @@
-package DSA.Searching;
+package DSA.Searching.Linear;
 
 // LC Question link : https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
