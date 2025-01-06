@@ -21,8 +21,8 @@ public class BubbleSort {
         int n = arr.length;
 
         // With every pass through the array, the largest element comes in the end
-        for (int i = 0; i<n-1; i++){ // Bubble sort condition for outer loop ->from 0 to n-1
-            for (int j = 0; j<n-i-1; j++){ // Bubble sort condition for inner loop ->from 0 to n-i-1
+        for (int i = 0; i<n-1; i++){ // Bubble sort condition for outer loop -> from 0 to n-1
+            for (int j = 0; j<n-i-1; j++){ // Bubble sort condition for inner loop -> from 0 to n-i-1
                 if(arr[j] > arr[j+1]){
                     // Swapping of numbers in place
                     int temp = arr[j];
