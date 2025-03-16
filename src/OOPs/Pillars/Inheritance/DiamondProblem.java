@@ -40,12 +40,12 @@ class C extends A {
 }
 
 // This is showing error - Class cannot extend multiple classes
-class D extends B,C {
-    public static void main(String[] args) {
-        D d = new D();
-        d.display();
-    }
-}
+//class D extends B,C {
+//    public static void main(String[] args) {
+//        D d = new D();
+//        d.display();
+//    }
+//}
 
 //// SOLUTION OF THE DIAMOND PROBLEM
 
