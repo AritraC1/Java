@@ -1,7 +1,6 @@
 package CollectionsFramework;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 // Iterator in Collection Framework
 public class IteratorCF {
