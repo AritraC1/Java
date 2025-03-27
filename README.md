@@ -1,7 +1,7 @@
 # JAVA
 
 ## About
-All the Basic concepts of Java, OOPs, DSA in Java and some practice projects and problems and other resources.
+This repo covers Java fundamentals, OOP, DSA, Multithreading, Concurrency, Java 8 features, Exception and file Handling, and the Collections Framework. It also includes JUnit testing, real-world projects, and coding challenges from platforms like LeetCode and HackerRank to strengthen problem-solving and Java skills.
 
 ## Concept-based Projects
 
