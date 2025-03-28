@@ -7,7 +7,7 @@ public class Company {
     boolean f = false;
     // f = false; chance = producer
     // f = true; chance = consumer
-    // This is inter-thread communication
+    // This is for inter-thread communication
 
     // Producer
     synchronized public void produce_item(int n) throws InterruptedException {
