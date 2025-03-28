@@ -1,7 +1,7 @@
 # JAVA
 
 ## About
-This repo covers Java fundamentals, OOP, DSA, Multithreading, Concurrency, Java 8 features, Exception and file Handling, and the Collections Framework. It also includes JUnit testing, real-world projects, and coding challenges from platforms like LeetCode and HackerRank to strengthen problem-solving and Java skills.
+This repo covers Java fundamentals, OOP, DSA, Multithreading, Concurrency, Java 8 features, Exception and file Handling, and the Collections Framework. It also includes real-world projects, and coding challenges from platforms like LeetCode and HackerRank to strengthen problem-solving and Java skills.
 
 ## Concept-based Projects
 
