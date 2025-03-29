@@ -39,7 +39,7 @@ public class MapCF {
 
         System.out.println();
 
-        // TREEMAP: Map using BST - Binary Search Tree (Sorted)
+        // TREEMAP: Map using BST - Binary Search Tree (Already Sorted)
         Map<String, Integer> numbers = new TreeMap<>();
 
         // Here the sorting will be according to the alphabetical order like a dictionary
