@@ -1,34 +1,32 @@
 package DSA.Sorting.Cycle;
 
-public class MissingNumber {
-
+public class FirstMissingPositive {
     public static void main(String[] args) {
-        int[] arr = {3,0,1};
-        System.out.println(missingNumber(arr));
+        int[] arr = {1,2,0};
+        System.out.println(firstMissingPositive(arr));
     }
 
-    public static int missingNumber(int[] arr) {
+    public static int firstMissingPositive(int[] arr) {
         int i = 0;
 
         // Cyclic Sort
         while (i < arr.length) {
-            int correct = arr[i];
-            if (arr[i] < arr.length && arr[i] != arr[correct]) {
+            int correct = arr[i] - 1;
+            if (arr[i] > 0 && arr[i] <= arr.length && arr[i] != arr[correct]) {
                 swap(arr, i , correct);
             } else {
                 i++;
             }
         }
 
-        // search for first missing number
+        // finding the first positive
         for (int index = 0; index < arr.length; index++) {
-            if (arr[index] != index) {
-                return index;
+            if (arr[index] != index+1) {
+                return index+1;
             }
         }
 
-        // case 2 (Edge Case)
-        return arr.length;
+        return arr.length+1;
     }
 
     // Swap Function
