@@ -16,6 +16,6 @@ Morse code is a method of encoding text using sequences of dots (short signals) 
 - Java Swing: A lightweight GUI toolkit for building the graphical interface.
 
 ## Demo
-![Img1.png](src/Images/Img1.png)
+![Img1.png](Images/Img1.png)
 
-![Img2.png](src/Images/Img2.png)
+![Img2.png](Images/Img2.png)

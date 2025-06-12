@@ -15,7 +15,7 @@ A simple yet powerful password generator built using Java and Java Swing. This a
 - **IntelliJ IDEA (IDE)**
 
 ## Demo
-![Sample1](src/Demo/img1.png)
-![Sample2](src/Demo/img2.png)
-![Sample3](src/Demo/img3.png)
-![Sample4](src/Demo/img4.png)
+![Sample1](Demo/img1.png)
+![Sample2](Demo/img2.png)
+![Sample3](Demo/img3.png)
+![Sample4](Demo/img4.png)
